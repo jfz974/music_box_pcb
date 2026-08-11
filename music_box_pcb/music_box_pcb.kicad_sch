@@ -1040,6 +1040,60 @@
 			(embedded_fonts no)
 		)
 	)
+	(wire
+		(pts
+			(xy 130.81 87.63) (xy 168.91 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3421888d-b38d-4841-b507-2681c9f69f02")
+	)
+	(wire
+		(pts
+			(xy 168.91 78.74) (xy 184.15 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b3258ed1-5bf5-47ca-bb28-0f1d5bbcc62f")
+	)
+	(wire
+		(pts
+			(xy 168.91 87.63) (xy 168.91 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f23f9ccc-8f1b-4285-9e04-0b238f33cbb6")
+	)
+	(global_label "LED_CTRL"
+		(shape output)
+		(at 184.15 78.74 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d12c793e-c044-4bda-971d-d226627cef97")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 196.0856 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
 	(symbol
 		(lib_id "MCU_Module:RaspberryPi_Pico")
 		(at 107.95 85.09 0)

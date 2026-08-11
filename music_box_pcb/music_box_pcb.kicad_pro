@@ -729,14 +729,9 @@
         "filename": "led.kicad_sch",
         "name": "LED",
         "uuid": "317c64a6-ada2-47ce-b723-ce1035e4bd6d"
-      },
-      {
-        "filename": "guidelumier.kicad_sch",
-        "name": "GuideLumier",
-        "uuid": "f3c05c70-e290-465f-b15b-1d7604fc72ce"
       }
     ],
-    "used_designators": "A1,#PWR1-2,D1-64,MP1-65",
+    "used_designators": "A1,D1-64,#PWR1-2,MP1-65",
     "variants": []
   },
   "sheets": [
@@ -747,10 +742,6 @@
     [
       "317c64a6-ada2-47ce-b723-ce1035e4bd6d",
       "LED"
-    ],
-    [
-      "f3c05c70-e290-465f-b15b-1d7604fc72ce",
-      "GuideLumier"
     ]
   ],
   "text_variables": {},
