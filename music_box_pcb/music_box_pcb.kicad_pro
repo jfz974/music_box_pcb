@@ -524,7 +524,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "C:/Users/Julien F/Documents/music_box/music_box_pcb/music_box_pcb/FabFiles/",
       "specctra_dsn": "",
       "vrml": ""
     },
@@ -729,9 +729,14 @@
         "filename": "led.kicad_sch",
         "name": "LED",
         "uuid": "317c64a6-ada2-47ce-b723-ce1035e4bd6d"
+      },
+      {
+        "filename": "button_matrix.kicad_sch",
+        "name": "Button Matrix",
+        "uuid": "4a11c17a-e617-4150-83d1-e5c77ae33d51"
       }
     ],
-    "used_designators": "A1,D1-64,#PWR1-2,MP1-65",
+    "used_designators": "A1,D1-64,#PWR1-17,MP1-65,R1-9,J1-36,C1-26",
     "variants": []
   },
   "sheets": [
@@ -742,6 +747,10 @@
     [
       "317c64a6-ada2-47ce-b723-ce1035e4bd6d",
       "LED"
+    ],
+    [
+      "4a11c17a-e617-4150-83d1-e5c77ae33d51",
+      "Button Matrix"
     ]
   ],
   "text_variables": {},
