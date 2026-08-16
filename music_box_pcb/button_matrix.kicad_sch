@@ -1845,6 +1845,12 @@
 		(uuid "635acedb-4865-4124-a81b-0d393931272a")
 	)
 	(junction
+		(at 210.82 139.7)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "68335c8f-3cd7-404c-8b4b-971e35c6529f")
+	)
+	(junction
 		(at 88.9 156.21)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1855,6 +1861,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6b6ddde0-6962-4790-8078-6d144687f99d")
+	)
+	(junction
+		(at 224.79 139.7)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6ed9dc2c-b950-4c03-bf10-909adbe83683")
 	)
 	(junction
 		(at 224.79 77.47)
@@ -1891,6 +1903,18 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "85c49d09-605f-4039-bfc1-bf68c13d5d68")
+	)
+	(junction
+		(at 210.82 147.32)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8776327c-410a-464d-bc06-9d5277b9415f")
+	)
+	(junction
+		(at 254 139.7)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8a818c09-1a97-4f3d-afef-dec174879027")
 	)
 	(junction
 		(at 45.72 156.21)
@@ -2067,6 +2091,12 @@
 		(uuid "d7797b05-a9bf-47bf-9604-f324e099c465")
 	)
 	(junction
+		(at 240.03 139.7)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d8d7b680-af50-4e1a-bf18-d6bd7732b1c3")
+	)
+	(junction
 		(at 213.36 111.76)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2121,6 +2151,12 @@
 		(uuid "f72ffa5e-4dd0-4c15-9cdc-445c0293c27e")
 	)
 	(junction
+		(at 254 147.32)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f76dc41d-c965-446e-b1c9-277d85aa51d9")
+	)
+	(junction
 		(at 39.37 29.21)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2131,6 +2167,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fa42d90b-13f3-4e3b-aed7-e735e4e44f26")
+	)
+	(junction
+		(at 240.03 147.32)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "facee012-9573-45a9-934c-9fa90daabf01")
 	)
 	(junction
 		(at 222.25 104.14)
@@ -2145,10 +2187,26 @@
 		(uuid "fc19dda2-9933-4398-91a9-8e58b960d3ef")
 	)
 	(junction
+		(at 224.79 147.32)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fc761a6a-8e4f-4595-a346-99d2ebae0115")
+	)
+	(junction
 		(at 50.8 105.41)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ff7b44d2-66e6-4028-b879-4eea2c8d8a53")
+	)
+	(wire
+		(pts
+			(xy 254 147.32) (xy 270.51 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "00e6ecdd-70dc-4b46-9fc9-7d9362b4c38c")
 	)
 	(wire
 		(pts
@@ -2292,6 +2350,16 @@
 	)
 	(wire
 		(pts
+			(xy 210.82 147.32) (xy 224.79 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "21ac5969-22ba-4bc8-97b0-c6da0eb4d13d")
+	)
+	(wire
+		(pts
 			(xy 60.96 148.59) (xy 74.93 148.59)
 		)
 		(stroke
@@ -2309,6 +2377,16 @@
 			(type default)
 		)
 		(uuid "231f04f9-4b5c-44d7-a497-fa79ca462310")
+	)
+	(wire
+		(pts
+			(xy 240.03 139.7) (xy 254 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "246cefc7-d529-4814-812c-1b7581a27472")
 	)
 	(wire
 		(pts
@@ -2712,6 +2790,16 @@
 	)
 	(wire
 		(pts
+			(xy 240.03 147.32) (xy 254 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "574eac0a-091e-4722-bed6-ddb7b89a8da9")
+	)
+	(wire
+		(pts
 			(xy 74.93 148.59) (xy 88.9 148.59)
 		)
 		(stroke
@@ -2872,6 +2960,16 @@
 	)
 	(wire
 		(pts
+			(xy 210.82 139.7) (xy 224.79 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6a31bd7e-04f5-4012-967f-2425e2fd261a")
+	)
+	(wire
+		(pts
 			(xy 88.9 96.52) (xy 97.79 96.52)
 		)
 		(stroke
@@ -2969,6 +3067,16 @@
 			(type default)
 		)
 		(uuid "74b9b780-f72b-4c76-b4db-22657f7f6d2e")
+	)
+	(wire
+		(pts
+			(xy 200.66 139.7) (xy 210.82 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "74d5c7f2-a40a-4b3b-aee6-04ff4861ffe0")
 	)
 	(wire
 		(pts
@@ -3242,6 +3350,16 @@
 	)
 	(wire
 		(pts
+			(xy 224.79 139.7) (xy 240.03 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "af6be13a-220a-4b99-809b-a2cffc117ee6")
+	)
+	(wire
+		(pts
 			(xy 74.93 63.5) (xy 74.93 67.31)
 		)
 		(stroke
@@ -3299,6 +3417,16 @@
 			(type default)
 		)
 		(uuid "b3c95c23-a551-4f70-bebb-912579e162cb")
+	)
+	(wire
+		(pts
+			(xy 224.79 147.32) (xy 240.03 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b53a3e2d-2320-461b-99c1-db26df17f0b9")
 	)
 	(wire
 		(pts
@@ -3522,6 +3650,16 @@
 	)
 	(wire
 		(pts
+			(xy 205.74 147.32) (xy 210.82 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e708d1f4-9dc8-4d4b-b5a8-eb3d836c92d5")
+	)
+	(wire
+		(pts
 			(xy 45.72 107.95) (xy 57.15 107.95)
 		)
 		(stroke
@@ -3549,6 +3687,16 @@
 			(type default)
 		)
 		(uuid "ec0b6edc-e747-4c67-8816-ea772449de7b")
+	)
+	(wire
+		(pts
+			(xy 254 139.7) (xy 270.51 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ee0b7d25-43e7-4dea-b8b6-a149f859c1b8")
 	)
 	(wire
 		(pts
@@ -3974,6 +4122,166 @@
 	)
 	(symbol
 		(lib_id "power:GND")
+		(at 205.74 147.32 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "099e25da-e14b-4b7c-a1ea-8531918fd4ce")
+		(property "Reference" "#PWR019"
+			(at 205.74 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 205.74 152.4 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 205.74 147.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 205.74 147.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 205.74 147.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "aff04458-07d0-4d67-9f29-f90c73e1f9e0")
+		)
+		(instances
+			(project "music_box_pcb"
+				(path "/4a11c17a-e617-4150-83d1-e5c77ae33d51"
+					(reference "#PWR019")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 254 143.51 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0fc3b105-a880-4d45-a961-4f72188507e3")
+		(property "Reference" "C30"
+			(at 257.81 142.2399 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100nF"
+			(at 257.81 144.7799 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+			(at 254.9652 147.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 254 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 254 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "e12a7a16-d042-4c4d-af4a-f842e1b0904d")
+		)
+		(pin "1"
+			(uuid "6f4b1665-34d3-4360-bacf-600371da60c7")
+		)
+		(instances
+			(project "music_box_pcb"
+				(path "/4a11c17a-e617-4150-83d1-e5c77ae33d51"
+					(reference "C30")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
 		(at 26.67 156.21 0)
 		(unit 1)
 		(body_style 1)
@@ -4367,6 +4675,88 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 224.79 143.51 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1cb4af8b-030b-47ac-96eb-c08a6d924b6b")
+		(property "Reference" "C28"
+			(at 228.6 142.2399 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100nF"
+			(at 228.6 144.7799 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+			(at 225.7552 147.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 224.79 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 224.79 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "2651dcdd-84e9-4e48-95f6-c23ba8485895")
+		)
+		(pin "1"
+			(uuid "1bdf5966-d558-4158-93a8-b2f4111c5ed0")
+		)
+		(instances
+			(project "music_box_pcb"
+				(path "/4a11c17a-e617-4150-83d1-e5c77ae33d51"
+					(reference "C28")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Polarized")
 		(at 262.89 107.95 0)
 		(unit 1)
@@ -4679,6 +5069,88 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 210.82 143.51 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3486e72f-2839-44d4-82ff-f6489d98569c")
+		(property "Reference" "C27"
+			(at 214.63 142.2399 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100nF"
+			(at 214.63 144.7799 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+			(at 211.7852 147.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 210.82 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 210.82 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "d15759d8-c171-4b61-ad0d-30717149aca8")
+		)
+		(pin "1"
+			(uuid "ba6a41ae-5538-47e9-886c-eaa1a4099a3b")
+		)
+		(instances
+			(project "music_box_pcb"
+				(path "/4a11c17a-e617-4150-83d1-e5c77ae33d51"
+					(reference "C27")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:Conn_01x01_Pin")
 		(at 175.26 63.5 180)
 		(unit 1)
@@ -4985,6 +5457,88 @@
 			(project "music_box_pcb"
 				(path "/4a11c17a-e617-4150-83d1-e5c77ae33d51"
 					(reference "R4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 270.51 143.51 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "46098ec6-9eaf-4e92-bce7-a94ab846762e")
+		(property "Reference" "C31"
+			(at 274.32 141.3509 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "470µF, 16V"
+			(at 274.32 143.8909 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:CP_Elec_8x10.5"
+			(at 271.4752 147.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 270.51 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "XT470UF16V90RV0085"
+			(at 270.51 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "ddd0c1a9-2302-415a-8cdf-6ce542323534")
+		)
+		(pin "2"
+			(uuid "5419ef9d-9274-446e-8c4b-3b7aeb21dd38")
+		)
+		(instances
+			(project "music_box_pcb"
+				(path "/4a11c17a-e617-4150-83d1-e5c77ae33d51"
+					(reference "C31")
 					(unit 1)
 				)
 			)
@@ -9083,6 +9637,84 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+5V")
+		(at 200.66 139.7 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e640c509-5d80-4ee2-8e32-84a6c6b18692")
+		(property "Reference" "#PWR018"
+			(at 200.66 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+5V"
+			(at 200.66 134.62 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 200.66 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 200.66 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 200.66 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "df24ecbc-7ed9-462b-afcc-062de9c311f1")
+		)
+		(instances
+			(project "music_box_pcb"
+				(path "/4a11c17a-e617-4150-83d1-e5c77ae33d51"
+					(reference "#PWR018")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:Conn_01x01_Pin")
 		(at 128.27 60.96 0)
 		(unit 1)
@@ -9737,6 +10369,88 @@
 			(project "music_box_pcb"
 				(path "/4a11c17a-e617-4150-83d1-e5c77ae33d51"
 					(reference "C5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 240.03 143.51 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fc131b39-2455-4c88-81cf-90f913ff09ce")
+		(property "Reference" "C29"
+			(at 243.84 142.2399 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100nF"
+			(at 243.84 144.7799 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+			(at 240.9952 147.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 240.03 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 240.03 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "5c82fcc0-2a13-4f1d-9ef7-9672ccb69557")
+		)
+		(pin "1"
+			(uuid "e808eede-9711-4d41-8926-494bd31be6bd")
+		)
+		(instances
+			(project "music_box_pcb"
+				(path "/4a11c17a-e617-4150-83d1-e5c77ae33d51"
+					(reference "C29")
 					(unit 1)
 				)
 			)
