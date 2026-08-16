@@ -3647,7 +3647,7 @@
 		)
 		(uuid "ffdd1dd5-4f9d-4a9e-bc3b-5319c58e6945")
 	)
-	(global_label "LED_CTRL"
+	(global_label "SW_LED_CTRL"
 		(shape input)
 		(at 62.23 38.1 180)
 		(fields_autoplaced yes)
@@ -3659,7 +3659,7 @@
 		)
 		(uuid "80a9dad3-0797-4b5e-a989-7d3be28a315f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 50.2944 38.1 0)
+			(at 46.6659 38.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
